@@ -1,5 +1,12 @@
 # Flight_Radar
-Merhaba, bu proje React Toolkit ve Redux Thunk kullanılarak geliştirilmiş bir uçuş radarı uygulamasıdır. Proje, RapidAPI üzerinden alınan Flight-radar API verileriyle, kullanıcının girdiği lokasyon üzerindeki tüm uçuşları canlı olarak görüntülemektedir. Harita gösterimi için Leaflet kütüphanesi kullanılmıştır. Proje, uçuşları takip etmek için iki ana sayfa sunmaktadır: bir harita sayfası ve bir liste sayfası. Kullanıcılar, her iki sayfadan da uçuşlarla ilgili detaylara erişebilirler.
+Hello, this project is a flight radar application developed using React Toolkit and Redux Thunk. The project displays live flights over the location entered by the user, using flight data from the Flight-radar API via RapidAPI. The Leaflet library is used for map rendering. The project offers two main pages to track flights: a map page and a list page. Users can access flight details from both pages.
+
+🛠️ Technologies Used
+
+
+HTML5
+CSS3 
+JavaScript 
 
 ![](flight-radar.gif)
 # flight_radar
